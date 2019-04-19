@@ -7,7 +7,7 @@ Cerinte:
 
 ### Aplicatie voluntari/eveniment
  Voluntar-campuri:
- -[x]  nume(nume de familie+prenume); 
+  -[x]  nume(nume de familie+prenume); 
   - [x] varsta;
   - [x] gen
   - [x] adresa(strada,numar,localitate,tara);
@@ -108,6 +108,6 @@ Fisierul ecel pt sponsori:
  -[x] adauga voluntar/eveniment;
  -[x] sterge voluntar/eveniment;
  -[x] arata toti voluntarii/toate evenimentele;
--[x] alerta zi de nastere voluntari;
--[x] alerta expirare contract;
--[] editeaza un voluntar/eveniment;
+ -[x] alerta zi de nastere voluntari;
+ -[x] alerta expirare contract;
+ -[] editeaza un voluntar/eveniment;
