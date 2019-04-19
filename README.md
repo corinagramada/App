@@ -71,7 +71,8 @@ Beneficiar campuri:
  -[]  tip locuinta(chirie,gazduit de cineva,mostenire,etc);
  -[]  persoana fara adapost(da/nu);
  -[]  raport pe 6 luni.
- Registru:
+
+Registru:
 - [] marca(cerere id,ancheta,contract,perioada contract);
 - []  marca(cerere id,ancheta,contract,perioada contract);
  
