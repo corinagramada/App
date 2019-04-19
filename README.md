@@ -7,6 +7,7 @@ Cerinte:
 
 ### Aplicatie voluntari/eveniment
  Voluntar-campuri:
+ 
   -[x]  nume(nume de familie+prenume); 
   - [x] varsta;
   - [x] gen
